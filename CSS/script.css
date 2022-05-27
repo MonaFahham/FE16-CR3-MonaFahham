@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  max-width: 100%;
+}
+
+.hero_image {
+  text-align: center;
+  color: black;
+}
+
+.hero_image .fit-image {
+  width: 100%;
+}
+
+.hero_image .centered {
+  top: 15%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.hero_image .icon_and_text {
+  margin-top: 10%;
+}
+
+.hero_image .icon_and_text .seat_icon {
+  width: 2rem;
+}
+
+.hero_image .icon_and_text .text_icon {
+  font-size: 0.8rem;
+  margin: 0;
+  padding: 0;
+  width: 5rem;
+}
+
+.hero_image .btn_book_now {
+  margin-top: 20%;
+  font-size: 1rem;
+}
+/*# sourceMappingURL=script.css.map */
