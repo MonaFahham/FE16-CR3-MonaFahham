@@ -35,7 +35,7 @@
   font-size: 0.8rem;
   margin: 0;
   padding: 0;
-  width: 5rem;
+  width: 6rem;
 }
 
 .hero_image .btn_book_now {
@@ -57,5 +57,9 @@
 
 .month {
   color: #05bdd6;
+}
+
+.customerreview_hero {
+  width: 100%;
 }
 /*# sourceMappingURL=script.css.map */
